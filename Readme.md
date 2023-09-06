@@ -1,6 +1,6 @@
 # Análise de churn da empresa Telco telecom
 
-**Linhk de acesso ao relatório: https://app.powerbi.com/view?r=eyJrIjoiODQ4YTUwZjktM2IwNC00Yjk3LWJlZGEtYjQwYzcwZTk2NzUyIiwidCI6ImIxY2E3YTgxLWFiZjgtNDJlNS05OGM2LWYyZjJhOTMwYmEzNiJ9**
+**Link de acesso ao relatório: https://app.powerbi.com/view?r=eyJrIjoiODQ4YTUwZjktM2IwNC00Yjk3LWJlZGEtYjQwYzcwZTk2NzUyIiwidCI6ImIxY2E3YTgxLWFiZjgtNDJlNS05OGM2LWYyZjJhOTMwYmEzNiJ9**
 
 A empresa Telco é uma empresa ficticia que deseja respostas a respeito do comportamento do churn de seus clientes.
 
