@@ -13,7 +13,7 @@ A análise foi divida nas seguintes etapas:
 * Análise da modalidade de contrato e pagamento.
 
 ## Insights:
- *  1. Os 5 primeiros meses de contrato são os mais críticos, apresentando um churn superior a 30%
+ *  1. Os 5 primeiros meses de contrato são os mais críticos, apresentando um churn (médio) superior a 30%
        
  *  2. O serviço que possui maior churn é o de internet, sendo líder o serviço de fibra óptica, tendo 73% de churn de clientes no primeiro mês de contrato
        
